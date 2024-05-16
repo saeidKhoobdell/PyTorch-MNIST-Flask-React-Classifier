@@ -52,4 +52,3 @@ npm start
 Open your web browser and visit [http://localhost:5000](http://localhost:5000) to interact with the web application.
 ```
 
-You can copy this block into a README.md file in your repository.
