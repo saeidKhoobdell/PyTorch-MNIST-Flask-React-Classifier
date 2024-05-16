@@ -7,27 +7,27 @@ This repository showcases the end-to-end process of building, training, deployin
 
 ### Clone the repository:
 
-```bash
+
 git clone https://github.com/your-username/PyTorch-MNIST-Flask-React-Classifier.git
 
 
 ### Navigate to the project directory:
 
-```bash
+
 cd PyTorch-MNIST-Flask-React-Classifier
-```
+
 
 ### Set up the backend:
 
 1. Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
 2. Run the Flask app:
 
-```bash
+```
 python app.py
 ```
 
