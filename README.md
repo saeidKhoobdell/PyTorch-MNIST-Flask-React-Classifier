@@ -1,5 +1,4 @@
 
-```markdown
 # PyTorch MNIST Classifier with Flask and React
 
 This repository showcases the end-to-end process of building, training, deploying, and serving a PyTorch-based classifier for the MNIST dataset. The trained model is deployed using Flask, providing a RESTful API endpoint for digit recognition. Additionally, a React web application enables users to upload images and visualize predictions from the deployed model.
@@ -10,7 +9,7 @@ This repository showcases the end-to-end process of building, training, deployin
 
 ```bash
 git clone https://github.com/your-username/PyTorch-MNIST-Flask-React-Classifier.git
-```
+
 
 ### Navigate to the project directory:
 
