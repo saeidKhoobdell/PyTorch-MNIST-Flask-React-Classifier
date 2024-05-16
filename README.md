@@ -35,11 +35,7 @@ python app.py
 
 ### Set up the frontend:
 
-1. Navigate to the frontend directory:
 
-```bash
-cd frontend
-```
 
 2. Install dependencies:
 
