@@ -1,4 +1,3 @@
-Certainly! Here's the README content as a single code block:
 
 ```markdown
 # PyTorch MNIST Classifier with Flask and React
